@@ -1,3 +1,3 @@
 ### Whats good
 some school acc idk what im doing  
-i feel like i can do something with this  
+im just going to use this for my school coding projects because i hate using the bad coding programs and not vs code
